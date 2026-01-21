@@ -24,7 +24,8 @@ A deep learning-based image similarity system that retrieves visually similar fo
 ---
 
 ## 🖼 Demo
-![demo](demo.png)
+<img width="1919" height="969" alt="image" src="https://github.com/user-attachments/assets/2dd51bb0-6f14-419b-95d8-70951cb15482" />
+
 
 ---
 
